@@ -37,7 +37,7 @@ export default function LoginPage() {
       <LoginForm onSubmit={handleSubmit} autoComplete="off">
         <TextField
           id="outlined-basic"
-          label="Mail"
+          label="E-Mail"
           placeholder="E-mail"
           variant="outlined"
           autoComplete="all"
